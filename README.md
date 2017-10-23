@@ -1,0 +1,2 @@
+# nadeko-bot
+test
